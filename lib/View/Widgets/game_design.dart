@@ -54,6 +54,7 @@ class Citem extends StatelessWidget {
               style: TextStyle(
                   fontSize: 80.sp,
                   fontWeight: FontWeight.bold,
+                  color: MyColors.primaryColor,
                   shadows: const [
                     Shadow(blurRadius: 20, color: MyColors.shadowColor)
                   ]),
